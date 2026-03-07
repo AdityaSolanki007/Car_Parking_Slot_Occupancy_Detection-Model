@@ -1,0 +1,17 @@
+Day : 1
+Step : 1 (Done) (17 - 5 - 2024) ==> Parking Space Selector 
+    Using the Parking Space Selector you can select the Parking Space in Parking Lot, Where car should be parked
+
+
+Day : 2 (Done)
+Step : 2 (19 - 5 - 2024) ==> Data Collection and Manuel Labelling for ANN Traning,Neural Network Traning and Optimization
+
+
+Day : 3 (Done)
+Step : 3 (20 - 5 - 2024) ==> Optimization for Realtime Classification
+
+
+Future Works : 
+    Booking Process SteUp
+    API and Routes Generation
+    Frontend 
