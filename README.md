@@ -97,9 +97,9 @@ To set up this project on your local machine, follow these steps:
 
 If you have any questions or feedback, please reach out to:
 
-- [Krishna Gavali on GitHub](https://github.com/KrishnaGavali)
-- [Krishna Gavali on LinkedIn](https://www.linkedin.com/in/krishna-gavali-76a11a273/)
-- Krishna Gavali on Gmail: **k1810g2005@gmail.com**
+- [Aditya Solanki on GitHub](https://github.com/AdityaSolanki007)
+- [Aditya Solanki on LinkedIn](https://www.linkedin.com/in/aditya-solanki-tech/)
+- Aditya Solanki on Gmail: **solankiaditya697@gmail.com**
 
 Feel free to get in touch!
 
