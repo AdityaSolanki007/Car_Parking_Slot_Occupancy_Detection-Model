@@ -32,7 +32,7 @@ To set up this project on your local machine, follow these steps:
 2. **Clone the repository**:
 
    ```sh
-   git clone https://github.com/KrishnaGavali/parking_space_detection_V1
+   git clone https://github.com/AdityaSolanki007/parking_space_detection_V1
    cd parking_space_detection_V1
    ```
 
